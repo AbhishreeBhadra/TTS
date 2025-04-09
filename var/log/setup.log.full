@@ -1,0 +1,407 @@
+2024/07/29 18:07:59 Starting cygwin install, version 2.932
+2024/07/29 18:07:59 User has backup/restore rights
+2024/07/29 18:07:59 User has symlink creation right
+2024/07/29 18:07:59 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2024/07/29 18:07:59 Current Directory: C:\Users\KIIT\Downloads
+Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2024/07/29 18:08:05 source: network install
+2024/07/29 18:08:16 source: network install
+2024/07/29 18:08:26 root: C:\Users\KIIT\Desktop\HexaLearn system
+2024/07/29 18:08:26 Changing gid to Administrators
+2024/07/29 18:08:33 Selected local directory: C:\Users\KIIT\Desktop\HexaLearn
+2024/07/29 18:08:35 net: Preconfig
+Cached mirror list unavailable
+User-Agent: default is "Cygwin-Setup/2.932 (Windows NT 10.0.22631;x86_64;0409;SymLinkPriv)"
+Request for URL https://cygwin.com/mirrors.lst satisfied from cache
+Fetched URL: https://cygwin.com/mirrors.lst
+Adding site: cygwin.mirror.constant.com
+2024/07/29 18:10:58 site: cygwin.mirror.constant.com/
+2024/07/29 18:10:58 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.zst.sig
+2024/07/29 18:10:58 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.zst
+2024/07/29 18:10:58 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.xz.sig
+2024/07/29 18:10:58 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.xz
+2024/07/29 18:10:58 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.bz2.sig
+2024/07/29 18:10:58 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.bz2
+2024/07/29 18:10:58 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.ini.sig
+2024/07/29 18:10:58 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.ini
+2024/07/29 18:10:58 mbox note: Unable to get setup from <cygwin.mirror.constant.com/>
+2024/07/29 18:11:08 site: cygwin.mirror.constant.com/
+2024/07/29 18:11:08 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.zst.sig
+2024/07/29 18:11:08 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.zst
+2024/07/29 18:11:08 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.xz.sig
+2024/07/29 18:11:08 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.xz
+2024/07/29 18:11:08 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.bz2.sig
+2024/07/29 18:11:08 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.bz2
+2024/07/29 18:11:08 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.ini.sig
+2024/07/29 18:11:08 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.ini
+2024/07/29 18:11:08 mbox note: Unable to get setup from <cygwin.mirror.constant.com/>
+Adding site: mirrors.kernel.org
+2024/07/29 18:11:34 site: cygwin.mirror.constant.com/
+2024/07/29 18:11:34 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.zst.sig
+2024/07/29 18:11:34 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.zst
+2024/07/29 18:11:34 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.xz.sig
+2024/07/29 18:11:34 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.xz
+2024/07/29 18:11:34 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.bz2.sig
+2024/07/29 18:11:34 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.bz2
+2024/07/29 18:11:34 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.ini.sig
+2024/07/29 18:11:34 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.ini
+2024/07/29 18:11:34 mbox note: Unable to get setup from <cygwin.mirror.constant.com/>
+Adding site: mirror.cs.vt.edu
+2024/07/29 18:12:00 site: mirror.cs.vt.edu/
+2024/07/29 18:12:00 connection error: 3 fetching file://mirror.cs.vt.edu/x86_64/setup.zst.sig
+2024/07/29 18:12:00 connection error: 3 fetching file://mirror.cs.vt.edu/x86_64/setup.zst
+2024/07/29 18:12:00 connection error: 3 fetching file://mirror.cs.vt.edu/x86_64/setup.xz.sig
+2024/07/29 18:12:00 connection error: 3 fetching file://mirror.cs.vt.edu/x86_64/setup.xz
+2024/07/29 18:12:00 connection error: 3 fetching file://mirror.cs.vt.edu/x86_64/setup.bz2.sig
+2024/07/29 18:12:00 connection error: 3 fetching file://mirror.cs.vt.edu/x86_64/setup.bz2
+2024/07/29 18:12:00 connection error: 3 fetching file://mirror.cs.vt.edu/x86_64/setup.ini.sig
+2024/07/29 18:12:00 connection error: 3 fetching file://mirror.cs.vt.edu/x86_64/setup.ini
+2024/07/29 18:12:00 mbox note: Unable to get setup from <mirror.cs.vt.edu/>
+Adding site: cygwin.mirror.rafal.ca
+2024/07/29 18:12:14 site: cygwin.mirror.rafal.ca/
+2024/07/29 18:12:14 connection error: 3 fetching file://cygwin.mirror.rafal.ca/x86_64/setup.zst.sig
+2024/07/29 18:12:14 connection error: 3 fetching file://cygwin.mirror.rafal.ca/x86_64/setup.zst
+2024/07/29 18:12:14 connection error: 3 fetching file://cygwin.mirror.rafal.ca/x86_64/setup.xz.sig
+2024/07/29 18:12:14 connection error: 3 fetching file://cygwin.mirror.rafal.ca/x86_64/setup.xz
+2024/07/29 18:12:14 connection error: 3 fetching file://cygwin.mirror.rafal.ca/x86_64/setup.bz2.sig
+2024/07/29 18:12:14 connection error: 3 fetching file://cygwin.mirror.rafal.ca/x86_64/setup.bz2
+2024/07/29 18:12:14 connection error: 3 fetching file://cygwin.mirror.rafal.ca/x86_64/setup.ini.sig
+2024/07/29 18:12:14 connection error: 3 fetching file://cygwin.mirror.rafal.ca/x86_64/setup.ini
+2024/07/29 18:12:14 mbox note: Unable to get setup from <cygwin.mirror.rafal.ca/>
+2024/07/29 18:12:22 site: https://cygwin.mirrors.hoobly.com/
+Fetched URL: https://cygwin.mirrors.hoobly.com/x86_64/setup.zst.sig
+Fetched URL: https://cygwin.mirrors.hoobly.com/x86_64/setup.zst
+signature: sig_type 0, pk_alg 1, hash_alg 8
+signature: tried key cygwin, returned 0x00000000 Success
+2024/07/29 18:12:28 io_stream_cygfile: fopen(/etc/setup/timestamp) failed 2 No such file or directory
+.ini setup_version is 2.932, our setup_version is 2.932
+2024/07/29 18:12:28 io_stream_cygfile: fopen(/etc/setup/installed.db) failed 2 No such file or directory
+2024/07/29 18:12:28 solving: 38 tasks, update: yes, use test packages: no
+libsolv: solver started
+libsolv: dosplitprovides=0, noupdateprovide=0, noinfarchcheck=0
+libsolv: allowuninstall=0, allowdowngrade=0, allownamechange=1, allowarchchange=0, allowvendorchange=1
+libsolv: dupallowdowngrade=1, dupallownamechange=1, dupallowarchchange=1, dupallowvendorchange=1
+libsolv: promoteepoch=0, forbidselfconflicts=0
+libsolv: obsoleteusesprovides=0, implicitobsoleteusesprovides=0, obsoleteusescolors=0, implicitobsoleteusescolors=0
+libsolv: dontinstallrecommended=0, addalreadyrecommended=0 onlynamespacerecommended=0
+libsolv: number of solvables: 54331, memory used: 2971 K
+libsolv: number of ids: 27932 + 54337
+libsolv: string memory used: 109 K array + 476 K data,  rel memory used: 636 K array
+libsolv: string hash memory: 256 K, rel hash memory : 512 K
+libsolv: provide ids: 11808
+libsolv: provide space needed: 40960 + 108674
+libsolv: shrunk whatprovidesdata from 40960 to 40538
+libsolv: shrunk whatprovidesauxdata from 40960 to 29149
+libsolv: whatprovides memory used: 325 K id array, 582 K data
+libsolv: whatprovidesaux memory used: 109 K id array, 113 K data
+libsolv: WARNING: pool_addfileprovides was not called, this may result in slow operation
+libsolv: lazywhatprovidesq size: 0 entries
+libsolv: createwhatprovides took 0 ms
+libsolv: obsoletes data: 1 entries
+libsolv: added 1152 pkg rules for installed solvables
+libsolv: added 0 pkg rules for updaters of installed solvables
+libsolv: added 0 pkg rules for packages involved in a job
+libsolv: added 0 pkg rules because of weak dependencies
+libsolv: 236 of 27083 installable solvables considered for solving
+libsolv: pruned rules from 1153 to 1153
+libsolv:   binary: 455
+libsolv:   normal: 697, 5327 literals
+libsolv: pkg rule memory used: 27 K
+libsolv: pkg rule creation took 0 ms
+libsolv: choice rule creation took 0 ms
+libsolv: 1152 pkg rules, 2 * 2 update rules, 38 job rules, 0 infarch rules, 0 dup rules, 0 choice rules, 0 best rules, 0 yumobs rules
+libsolv: 0 black rules, 0 recommends rules, 0 repo priority rules
+libsolv: overall rule memory used: 28 K
+libsolv: solving...
+libsolv: resolving job rules
+libsolv: resolving installed packages
+libsolv: deciding orphaned packages
+libsolv: solver statistics: 0 learned rules, 0 unsolvable, 0 minimization steps
+libsolv: done solving.
+libsolv: solver took 0 ms
+libsolv: final solver statistics: 0 problems, 0 learned rules, 0 unsolvable
+libsolv: solver_solve took 0 ms
+libsolv: 
+libsolv: transaction:
+libsolv:   install   crypto-policies-20190218-1.any
+libsolv: 
+libsolv:   install   which-2.20-2.any
+libsolv: 
+libsolv:   install   _autorebase-001091-1.any
+libsolv: 
+libsolv:   install   alternatives-1.26-1.any
+libsolv: 
+libsolv:   install   base-cygwin-3.8-2.any
+libsolv: 
+libsolv:   install   base-files-4.3-3.any
+libsolv: 
+libsolv:   install   bash-5.2.21-1.any
+libsolv: 
+libsolv:   install   coreutils-9.0-1.any
+libsolv: 
+libsolv:   install   cygutils-1.4.17-1.any
+libsolv: 
+libsolv:   install   cygwin-3.5.3-1.any
+libsolv: 
+libsolv:   install   dash-0.5.12-5.any
+libsolv: 
+libsolv:   install   diffutils-3.10-1.any
+libsolv: 
+libsolv:   install   editrights-1.04-1.any
+libsolv: 
+libsolv:   install   file-5.44-1.any
+libsolv: 
+libsolv:   install   findutils-4.10.0-1.any
+libsolv: 
+libsolv:   install   gawk-5.3.0-1.any
+libsolv: 
+libsolv:   install   getent-2.18.90-5.any
+libsolv: 
+libsolv:   install   grep-3.11-1.any
+libsolv: 
+libsolv:   install   gzip-1.13-1.any
+libsolv: 
+libsolv:   install   hostname-3.13-1.any
+libsolv: 
+libsolv:   install   info-7.1-1.any
+libsolv: 
+libsolv:   install   ipc-utils-1.1-1.any
+libsolv: 
+libsolv:   install   libreadline7-8.2-2.any
+libsolv: 
+libsolv:   install   libssl1.1-1.1.1w-1.any
+libsolv: 
+libsolv:   install   libssl3-3.0.14-1.any
+libsolv: 
+libsolv:   install   login-1.13-1.any
+libsolv: 
+libsolv:   install   man-db-2.12.1-1.any
+libsolv: 
+libsolv:   install   libgdbm6-1.18.1-1.any
+libsolv: 
+libsolv:   install   mintty-3.7.4-1.any
+libsolv: 
+libsolv:   install   ncurses-6.5+20240427-1.any
+libsolv: 
+libsolv:   install   openssl-3.0.14-1.any
+libsolv: 
+libsolv:   install   rebase-4.6.6-1.any
+libsolv: 
+libsolv:   install   run-1.3.4-2.any
+libsolv: 
+libsolv:   install   sed-4.9-1.any
+libsolv: 
+libsolv:   install   tar-1.35-2.any
+libsolv: 
+libsolv:   install   terminfo-6.5+20240427-1.any
+libsolv: 
+libsolv:   install   tzdata-2024a-1.any
+libsolv: 
+libsolv:   install   util-linux-2.39.3-2.any
+libsolv: 
+libsolv:   install   vim-minimal-9.0.2155-2.any
+libsolv: 
+libsolv:   install   libiconv2-1.17-1.any
+libsolv: 
+libsolv:   install   libncursesw10-6.5+20240427-1.any
+libsolv: 
+libsolv:   install   libblkid1-2.39.3-2.any
+libsolv: 
+libsolv:   install   libfdisk1-2.39.3-2.any
+libsolv: 
+libsolv:   install   libintl8-0.22.4-1.any
+libsolv: 
+libsolv:   install   libsmartcols1-2.39.3-2.any
+libsolv: 
+libsolv:   install   libuuid1-2.39.3-2.any
+libsolv: 
+libsolv:   install   zlib0-1.3.1-1.any
+libsolv: 
+libsolv:   install   bzip2-1.0.8-1.any
+libsolv: 
+libsolv:   install   xz-5.6.2-1.any
+libsolv: 
+libsolv:   install   zstd-1.5.6-1.any
+libsolv: 
+libsolv:   install   groff-1.23.0-1.any
+libsolv: 
+libsolv:   install   less-643-1.any
+libsolv: 
+libsolv:   install   libpipeline1-1.5.6-1.any
+libsolv: 
+libsolv:   install   libgcc1-12.4.0-3.any
+libsolv: 
+libsolv:   install   ca-certificates-2024.2.66_v8.0.302-1.any
+libsolv: 
+libsolv:   install   libpcre1-8.45-1.any
+libsolv: 
+libsolv:   install   libstdc++6-12.4.0-3.any
+libsolv: 
+libsolv:   install   libuchardet0-0.0.8-1.any
+libsolv: 
+libsolv:   install   libpcre2_8_0-10.44-1.any
+libsolv: 
+libsolv:   install   libargp-20230708-2.any
+libsolv: 
+libsolv:   install   libgmp10-6.3.0-1.any
+libsolv: 
+libsolv:   install   libmpfr6-4.2.1-1.any
+libsolv: 
+libsolv:   install   libbz2_1-1.0.8-1.any
+libsolv: 
+libsolv:   install   liblzma5-5.6.2-1.any
+libsolv: 
+libsolv:   install   libzstd1-1.5.6-1.any
+libsolv: 
+libsolv:   install   libpopt0-1.19-1.any
+libsolv: 
+libsolv:   install   libattr1-2.5.1-1.20.g0981a7bfe487.any
+libsolv: 
+libsolv:   install   tzcode-2024a-1.any
+libsolv: 
+libsolv:   install   p11-kit-0.23.20-1.any
+libsolv: 
+libsolv:   install   p11-kit-trust-0.23.20-1.any
+libsolv: 
+libsolv:   install   liblz4_1-1.9.4-1.any
+libsolv: 
+libsolv:   install   libp11-kit0-0.23.20-1.any
+libsolv: 
+libsolv:   install   libtasn1_6-4.14-1.any
+libsolv: 
+libsolv:   install   libpopt-common-1.19-1.any
+libsolv: 
+libsolv:   install   libffi6-3.2.1-2.any
+libsolv: 
+libsolv: 
+libsolv: orphaned packages:
+libsolv:   base-0.0-0.any (kept)
+libsolv:   _windows-10.0.22631.any (kept)
+libsolv: 
+libsolv: ordering transaction
+libsolv: transaction elements: 75
+libsolv: edges: 201, edge space: 237
+libsolv: edge creation took 0 ms
+libsolv: cycle: --> 
+libsolv: cygwin-3.5.3-1.any ##401##> 
+libsolv: zlib0-1.3.1-1.any --400--> 
+libsolv: 
+libsolv: cycle: --> 
+libsolv: cygwin-3.5.3-1.any ##401##> 
+libsolv: libzstd1-1.5.6-1.any --400--> 
+libsolv: 
+libsolv: cycle: --> 
+libsolv: cygwin-3.5.3-1.any ##401##> 
+libsolv: libintl8-0.22.4-1.any --400--> 
+libsolv: libiconv2-1.17-1.any --400--> 
+libsolv: 
+libsolv: cycle: --> 
+libsolv: cygwin-3.5.3-1.any ##401##> 
+libsolv: libgcc1-12.4.0-3.any --400--> 
+libsolv: 
+libsolv: cycle: --> 
+libsolv: bash-5.2.21-1.any ##401##> 
+libsolv: libreadline7-8.2-2.any --400--> 
+libsolv: libncursesw10-6.5+20240427-1.any --400--> 
+libsolv: cygwin-3.5.3-1.any --400--> 
+libsolv: 
+libsolv: cycle: --> 
+libsolv: bash-5.2.21-1.any ##401##> 
+libsolv: libintl8-0.22.4-1.any --400--> 
+libsolv: libiconv2-1.17-1.any --400--> 
+libsolv: cygwin-3.5.3-1.any --400--> 
+libsolv: 
+libsolv: cycle: --> 
+libsolv: bash-5.2.21-1.any ##401##> 
+libsolv: libiconv2-1.17-1.any --400--> 
+libsolv: cygwin-3.5.3-1.any --400--> 
+libsolv: 
+libsolv: cycle: --> 
+libsolv: bash-5.2.21-1.any ##401##> 
+libsolv: cygwin-3.5.3-1.any --400--> 
+libsolv: 
+libsolv: cycles broken: 8
+libsolv: cycle breaking took 0 ms
+libsolv: cycle edge creation took 0 ms
+libsolv: invedge space: 615
+libsolv: creating new transaction took 0 ms
+libsolv: transaction ordering took 0 ms
+libsolv: 75 installed packages:
+libsolv:   - _autorebase-001091-1.any
+libsolv:   - alternatives-1.26-1.any
+libsolv:   - base-cygwin-3.8-2.any
+libsolv:   - base-files-4.3-3.any
+libsolv:   - bash-5.2.21-1.any
+libsolv:   - bzip2-1.0.8-1.any
+libsolv:   - ca-certificates-2024.2.66_v8.0.302-1.any
+libsolv:   - coreutils-9.0-1.any
+libsolv:   - crypto-policies-20190218-1.any
+libsolv:   - cygutils-1.4.17-1.any
+libsolv:   - cygwin-3.5.3-1.any
+libsolv:   - dash-0.5.12-5.any
+libsolv:   - diffutils-3.10-1.any
+libsolv:   - editrights-1.04-1.any
+libsolv:   - file-5.44-1.any
+libsolv:   - findutils-4.10.0-1.any
+libsolv:   - gawk-5.3.0-1.any
+libsolv:   - getent-2.18.90-5.any
+libsolv:   - grep-3.11-1.any
+libsolv:   - groff-1.23.0-1.any
+libsolv:   - gzip-1.13-1.any
+libsolv:   - hostname-3.13-1.any
+libsolv:   - info-7.1-1.any
+libsolv:   - ipc-utils-1.1-1.any
+libsolv:   - less-643-1.any
+libsolv:   - libargp-20230708-2.any
+libsolv:   - libattr1-2.5.1-1.20.g0981a7bfe487.any
+libsolv:   - libblkid1-2.39.3-2.any
+libsolv:   - libbz2_1-1.0.8-1.any
+libsolv:   - libfdisk1-2.39.3-2.any
+libsolv:   - libffi6-3.2.1-2.any
+libsolv:   - libgcc1-12.4.0-3.any
+libsolv:   - libgdbm6-1.18.1-1.any
+libsolv:   - libgmp10-6.3.0-1.any
+libsolv:   - libiconv2-1.17-1.any
+libsolv:   - libintl8-0.22.4-1.any
+libsolv:   - liblz4_1-1.9.4-1.any
+libsolv:   - liblzma5-5.6.2-1.any
+libsolv:   - libmpfr6-4.2.1-1.any
+libsolv:   - libncursesw10-6.5+20240427-1.any
+libsolv:   - libp11-kit0-0.23.20-1.any
+libsolv:   - libpcre1-8.45-1.any
+libsolv:   - libpcre2_8_0-10.44-1.any
+libsolv:   - libpipeline1-1.5.6-1.any
+libsolv:   - libpopt-common-1.19-1.any
+libsolv:   - libpopt0-1.19-1.any
+libsolv:   - libreadline7-8.2-2.any
+libsolv:   - libsmartcols1-2.39.3-2.any
+libsolv:   - libssl1.1-1.1.1w-1.any
+libsolv:   - libssl3-3.0.14-1.any
+libsolv:   - libstdc++6-12.4.0-3.any
+libsolv:   - libtasn1_6-4.14-1.any
+libsolv:   - libuchardet0-0.0.8-1.any
+libsolv:   - libuuid1-2.39.3-2.any
+libsolv:   - libzstd1-1.5.6-1.any
+libsolv:   - login-1.13-1.any
+libsolv:   - man-db-2.12.1-1.any
+libsolv:   - mintty-3.7.4-1.any
+libsolv:   - ncurses-6.5+20240427-1.any
+libsolv:   - openssl-3.0.14-1.any
+libsolv:   - p11-kit-0.23.20-1.any
+libsolv:   - p11-kit-trust-0.23.20-1.any
+libsolv:   - rebase-4.6.6-1.any
+libsolv:   - run-1.3.4-2.any
+libsolv:   - sed-4.9-1.any
+libsolv:   - tar-1.35-2.any
+libsolv:   - terminfo-6.5+20240427-1.any
+libsolv:   - tzcode-2024a-1.any
+libsolv:   - tzdata-2024a-1.any
+libsolv:   - util-linux-2.39.3-2.any
+libsolv:   - vim-minimal-9.0.2155-2.any
+libsolv:   - which-2.20-2.any
+libsolv:   - xz-5.6.2-1.any
+libsolv:   - zlib0-1.3.1-1.any
+libsolv:   - zstd-1.5.6-1.any
+libsolv: 
+2024/07/29 18:18:07 mbox : Are you sure you want to exit setup? Any current download or installation will be aborted.
+2024/07/29 18:18:10 Ending cygwin install

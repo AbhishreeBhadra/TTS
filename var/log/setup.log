@@ -1,0 +1,83 @@
+2024/07/29 17:59:14 Starting cygwin install, version 2.932
+2024/07/29 17:59:14 User has backup/restore rights
+2024/07/29 17:59:14 User has symlink creation right
+2024/07/29 17:59:14 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2024/07/29 17:59:14 Current Directory: C:\Users\KIIT\Downloads
+2024/07/29 17:59:31 source: network install
+2024/07/29 17:59:50 root: C:\Users\KIIT\Desktop\HexaLearn system
+2024/07/29 17:59:50 Changing gid to Administrators
+2024/07/29 18:00:00 Selected local directory: C:\Users\KIIT\Desktop\HexaLearn
+2024/07/29 18:00:03 net: Preconfig
+2024/07/29 18:00:52 site: https://mirrors.163.com/cygwin/
+2024/07/29 18:07:03 mbox note: Mirror Error:  Setup.ini signature https://mirrors.163.com/cygwin/x86_64/setup.zst.sig from https://mirrors.163.com/cygwin/ failed to verify.
+Possible corrupt mirror?  Setup.ini rejected.
+2024/07/29 18:07:25 mbox : Are you sure you want to exit setup? Any current download or installation will be aborted.
+2024/07/29 18:07:31 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2024/07/29 18:07:31 Ending cygwin install
+2024/07/29 18:07:59 Starting cygwin install, version 2.932
+2024/07/29 18:07:59 User has backup/restore rights
+2024/07/29 18:07:59 User has symlink creation right
+2024/07/29 18:07:59 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2024/07/29 18:07:59 Current Directory: C:\Users\KIIT\Downloads
+2024/07/29 18:08:05 source: network install
+2024/07/29 18:08:16 source: network install
+2024/07/29 18:08:26 root: C:\Users\KIIT\Desktop\HexaLearn system
+2024/07/29 18:08:26 Changing gid to Administrators
+2024/07/29 18:08:33 Selected local directory: C:\Users\KIIT\Desktop\HexaLearn
+2024/07/29 18:08:35 net: Preconfig
+2024/07/29 18:10:58 site: cygwin.mirror.constant.com/
+2024/07/29 18:10:58 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.zst.sig
+2024/07/29 18:10:58 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.zst
+2024/07/29 18:10:58 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.xz.sig
+2024/07/29 18:10:58 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.xz
+2024/07/29 18:10:58 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.bz2.sig
+2024/07/29 18:10:58 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.bz2
+2024/07/29 18:10:58 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.ini.sig
+2024/07/29 18:10:58 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.ini
+2024/07/29 18:10:58 mbox note: Unable to get setup from <cygwin.mirror.constant.com/>
+2024/07/29 18:11:08 site: cygwin.mirror.constant.com/
+2024/07/29 18:11:08 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.zst.sig
+2024/07/29 18:11:08 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.zst
+2024/07/29 18:11:08 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.xz.sig
+2024/07/29 18:11:08 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.xz
+2024/07/29 18:11:08 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.bz2.sig
+2024/07/29 18:11:08 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.bz2
+2024/07/29 18:11:08 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.ini.sig
+2024/07/29 18:11:08 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.ini
+2024/07/29 18:11:08 mbox note: Unable to get setup from <cygwin.mirror.constant.com/>
+2024/07/29 18:11:34 site: cygwin.mirror.constant.com/
+2024/07/29 18:11:34 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.zst.sig
+2024/07/29 18:11:34 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.zst
+2024/07/29 18:11:34 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.xz.sig
+2024/07/29 18:11:34 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.xz
+2024/07/29 18:11:34 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.bz2.sig
+2024/07/29 18:11:34 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.bz2
+2024/07/29 18:11:34 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.ini.sig
+2024/07/29 18:11:34 connection error: 3 fetching file://cygwin.mirror.constant.com/x86_64/setup.ini
+2024/07/29 18:11:34 mbox note: Unable to get setup from <cygwin.mirror.constant.com/>
+2024/07/29 18:12:00 site: mirror.cs.vt.edu/
+2024/07/29 18:12:00 connection error: 3 fetching file://mirror.cs.vt.edu/x86_64/setup.zst.sig
+2024/07/29 18:12:00 connection error: 3 fetching file://mirror.cs.vt.edu/x86_64/setup.zst
+2024/07/29 18:12:00 connection error: 3 fetching file://mirror.cs.vt.edu/x86_64/setup.xz.sig
+2024/07/29 18:12:00 connection error: 3 fetching file://mirror.cs.vt.edu/x86_64/setup.xz
+2024/07/29 18:12:00 connection error: 3 fetching file://mirror.cs.vt.edu/x86_64/setup.bz2.sig
+2024/07/29 18:12:00 connection error: 3 fetching file://mirror.cs.vt.edu/x86_64/setup.bz2
+2024/07/29 18:12:00 connection error: 3 fetching file://mirror.cs.vt.edu/x86_64/setup.ini.sig
+2024/07/29 18:12:00 connection error: 3 fetching file://mirror.cs.vt.edu/x86_64/setup.ini
+2024/07/29 18:12:00 mbox note: Unable to get setup from <mirror.cs.vt.edu/>
+2024/07/29 18:12:14 site: cygwin.mirror.rafal.ca/
+2024/07/29 18:12:14 connection error: 3 fetching file://cygwin.mirror.rafal.ca/x86_64/setup.zst.sig
+2024/07/29 18:12:14 connection error: 3 fetching file://cygwin.mirror.rafal.ca/x86_64/setup.zst
+2024/07/29 18:12:14 connection error: 3 fetching file://cygwin.mirror.rafal.ca/x86_64/setup.xz.sig
+2024/07/29 18:12:14 connection error: 3 fetching file://cygwin.mirror.rafal.ca/x86_64/setup.xz
+2024/07/29 18:12:14 connection error: 3 fetching file://cygwin.mirror.rafal.ca/x86_64/setup.bz2.sig
+2024/07/29 18:12:14 connection error: 3 fetching file://cygwin.mirror.rafal.ca/x86_64/setup.bz2
+2024/07/29 18:12:14 connection error: 3 fetching file://cygwin.mirror.rafal.ca/x86_64/setup.ini.sig
+2024/07/29 18:12:14 connection error: 3 fetching file://cygwin.mirror.rafal.ca/x86_64/setup.ini
+2024/07/29 18:12:14 mbox note: Unable to get setup from <cygwin.mirror.rafal.ca/>
+2024/07/29 18:12:22 site: https://cygwin.mirrors.hoobly.com/
+2024/07/29 18:12:28 io_stream_cygfile: fopen(/etc/setup/timestamp) failed 2 No such file or directory
+2024/07/29 18:12:28 io_stream_cygfile: fopen(/etc/setup/installed.db) failed 2 No such file or directory
+2024/07/29 18:12:28 solving: 38 tasks, update: yes, use test packages: no
+2024/07/29 18:18:07 mbox : Are you sure you want to exit setup? Any current download or installation will be aborted.
+2024/07/29 18:18:10 Ending cygwin install
