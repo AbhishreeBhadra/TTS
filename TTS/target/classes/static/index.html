@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text to Speech Converter</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Text to Speech Converter</h1>
+
+        <!-- Text area for input text -->
+        <label for="text">Enter Text:</label>
+        <textarea id="text" rows="4" cols="50" placeholder="Enter text to convert to speech"></textarea>
+
+        <!-- Dropdown for selecting voice -->
+        <label for="voice">Choose Voice:</label>
+        <select id="voice">
+            <!-- Voice options will be populated dynamically -->
+        </select>
+
+        <!-- Input fields for adjusting pitch, rate, and volume -->
+        <label for="pitch">Pitch:</label>
+        <input type="number" id="pitch" value="1.0" step="0.1" min="0.1" max="2.0">
+
+        <label for="rate">Rate:</label>
+        <input type="number" id="rate" value="1.0" step="0.1" min="0.1" max="2.0">
+
+        <label for="volume">Volume:</label>
+        <input type="number" id="volume" value="1.0" step="0.1" min="0.0" max="1.0">
+
+        <!-- Buttons for conversion and saving audio -->
+        <button onclick="convertToSpeech()">Convert</button>
+        <button onclick="saveAudio()">Save Audio</button>
+
+        <!-- Audio player for playback -->
+        <audio id="audio" controls></audio>
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
